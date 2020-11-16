@@ -41,7 +41,7 @@ $ crontab -r
 The typical format of a cron job is:
 
 ```
-Minute(0-59) Hour(0-24) Day_Of_Month(1-31) Month(1-12) Day_Of_Week(0-6) command_to_execute
+Minute(0-59) Hour(0-24) Day_Of_Month(1-31) Month(1-12) Day_Of_Week(0-6) command
 ```
 
 The asterisks `*` correspond to specific blocks of time.
