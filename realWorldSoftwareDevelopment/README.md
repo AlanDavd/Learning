@@ -86,10 +86,6 @@ Say you need to read a file, parse it, process it, and save the information. You
 
 A temporally cohesive class is one that performs several operations that are only related in time. A typical example is a class that declares some sort of initialization and clean-up operations (e.g., connecting and closing a database connection) that is called before or after other processing operations. The initialization and the other operations are unrelated, but they have to be called in a specific order in time.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf8afabe-d865-47b8-a60e-274ce8b1a38f/Screen_Shot_2020-11-11_at_23.59.04.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf8afabe-d865-47b8-a60e-274ce8b1a38f/Screen_Shot_2020-11-11_at_23.59.04.png)
-
-> Summary of pros and cons for different levels of cohesion.
-
 ### Method-Level Cohesion
 
 The same principle of cohesion can be applied to methods. The more different functionalities a method performs, the harder it becomes to understand what that method actually does. In other words, your method has low cohesion if it is handling multiple unrelated concerns. Methods that display low cohesion are also harder to test because they have multiple responsibilities within one method, which makes it difficult to test the responsibilities individually! Typically, if you find yourself with a method that contains a series of if/else blocks that make modifications to many different fields of a class or parameters to the method, then it is a sign you should break down the method in more cohesive parts.
