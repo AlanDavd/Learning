@@ -6,4 +6,4 @@ Notes and reference docs for different subjects.
 
 ## Topics
 
-- [Cron Jobs](./cronjobs/README.md)
+- [Cron Jobs](./topics/README.md)
