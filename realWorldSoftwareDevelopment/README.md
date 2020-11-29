@@ -1,4 +1,4 @@
-# Real World Software Development
+# Real World Software Development
 
 Mastering software development involves learning a disparate set of concepts. Understanding common problems and solutions that have been solved by developers keeps you from reinventing the wheel in a new software project and enables you to deliver software faster and more reliably.
 
