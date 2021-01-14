@@ -7,4 +7,5 @@ Notes and reference docs for different subjects.
 ## Topics
 
 - [Cron Jobs](./topics/cronjobs.md)
+- [JavaScript](./topics/javascript/README.md)
 - [Real World Software Development](./realWorldSoftwareDevelopment/README.md)
