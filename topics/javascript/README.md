@@ -5,15 +5,6 @@
 - [Graph Example](./examples/Graph.js)
 - [Queue Example](./examples/Queue.js)
 - [Stack Example](./examples/Stack.js)
-- [Primitive Values](primitive-values)
-- [Falsy & Truthy](falsy-and-truthy)
-- [Objects & Functions](objects-and-functions)
-- [Variables](variables)
-- [Expression & Statements](expression-and-statements)
-- [Loops in JavaScript](loops-in-javaScript)
-- [Immediately-Invoked Function Expression (IIFE)](<immediately-invoked-function-expression-(iife)>)
-- [Class & Prototype](class-and-prototype)
-- [Array Destructuring](array-destructuring)
 
 ### Primitive Values
 
