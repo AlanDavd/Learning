@@ -8,4 +8,5 @@ Notes and reference docs for different subjects.
 
 - [Cron Jobs](./topics/cronjobs.md)
 - [JavaScript](./topics/javascript/README.md)
+- [Python](./topics/python.md)
 - [Real World Software Development](./realWorldSoftwareDevelopment/README.md)
